@@ -4,14 +4,15 @@ class Solution {
         while(num>=10){
             sum=0;
             while(num>0){
-                int a=num%10;
-                sum+=a;
+                int temp=num%10;
+                sum+=temp;
                 num/=10;
             }
             num=sum;
-        
+
         }
         return num;
+
         
     }
 }
