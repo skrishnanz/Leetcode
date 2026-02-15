@@ -32,4 +32,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/skrishnanz/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/skrishnanz/Leetcode/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/skrishnanz/Leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/skrishnanz/Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/skrishnanz/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
