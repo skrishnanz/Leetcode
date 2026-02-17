@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/skrishnanz/Leetcode/tree/master/0067-add-binary) |
+| [0984-string-without-aaa-or-bbb](https://github.com/skrishnanz/Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/skrishnanz/Leetcode/tree/master/0067-add-binary) |
+## Greedy
+|  |
+| ------- |
+| [0984-string-without-aaa-or-bbb](https://github.com/skrishnanz/Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 <!---LeetCode Topics End-->
