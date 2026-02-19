@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/skrishnanz/Leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/skrishnanz/Leetcode/tree/master/0155-min-stack) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/skrishnanz/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0984-string-without-aaa-or-bbb](https://github.com/skrishnanz/Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/skrishnanz/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
