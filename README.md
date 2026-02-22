@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/skrishnanz/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/skrishnanz/Leetcode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/skrishnanz/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/skrishnanz/Leetcode/tree/master/0067-add-binary) |
 | [0984-string-without-aaa-or-bbb](https://github.com/skrishnanz/Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 ## Bit Manipulation
