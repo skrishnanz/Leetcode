@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/skrishnanz/Leetcode/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/skrishnanz/Leetcode/tree/master/0242-valid-anagram) |
 ## Merge Sort
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/skrishnanz/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/skrishnanz/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/skrishnanz/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/skrishnanz/Leetcode/tree/master/0242-valid-anagram) |
 | [0984-string-without-aaa-or-bbb](https://github.com/skrishnanz/Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 ## Bit Manipulation
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/skrishnanz/Leetcode/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/skrishnanz/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
