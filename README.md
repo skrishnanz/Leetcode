@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/skrishnanz/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/skrishnanz/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/skrishnanz/Leetcode/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/skrishnanz/Leetcode/tree/master/0500-keyboard-row) |
 | [0984-string-without-aaa-or-bbb](https://github.com/skrishnanz/Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 ## Bit Manipulation
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/skrishnanz/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/skrishnanz/Leetcode/tree/master/0027-remove-element) |
 | [0179-largest-number](https://github.com/skrishnanz/Leetcode/tree/master/0179-largest-number) |
+| [0500-keyboard-row](https://github.com/skrishnanz/Leetcode/tree/master/0500-keyboard-row) |
 ## Trie
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/skrishnanz/Leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/skrishnanz/Leetcode/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/skrishnanz/Leetcode/tree/master/0500-keyboard-row) |
 ## String Matching
 |  |
 | ------- |
