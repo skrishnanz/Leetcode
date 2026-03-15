@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/skrishnanz/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/skrishnanz/Leetcode/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/skrishnanz/Leetcode/tree/master/0500-keyboard-row) |
+| [0811-subdomain-visit-count](https://github.com/skrishnanz/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0984-string-without-aaa-or-bbb](https://github.com/skrishnanz/Leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 ## Bit Manipulation
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/skrishnanz/Leetcode/tree/master/0027-remove-element) |
 | [0179-largest-number](https://github.com/skrishnanz/Leetcode/tree/master/0179-largest-number) |
 | [0500-keyboard-row](https://github.com/skrishnanz/Leetcode/tree/master/0500-keyboard-row) |
+| [0811-subdomain-visit-count](https://github.com/skrishnanz/Leetcode/tree/master/0811-subdomain-visit-count) |
 ## Trie
 |  |
 | ------- |
@@ -100,8 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/skrishnanz/Leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/skrishnanz/Leetcode/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/skrishnanz/Leetcode/tree/master/0500-keyboard-row) |
+| [0811-subdomain-visit-count](https://github.com/skrishnanz/Leetcode/tree/master/0811-subdomain-visit-count) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/skrishnanz/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0811-subdomain-visit-count](https://github.com/skrishnanz/Leetcode/tree/master/0811-subdomain-visit-count) |
 <!---LeetCode Topics End-->
